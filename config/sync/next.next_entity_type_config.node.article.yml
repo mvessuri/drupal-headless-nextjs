@@ -1,0 +1,13 @@
+uuid: 4a11cd22-99c1-4d1b-b3fe-6d3ecd8be442
+langcode: en
+status: true
+dependencies: {  }
+id: node.article
+site_resolver: site_selector
+configuration:
+  sites:
+    next_for_drupal_blog: next_for_drupal_blog
+revalidator: path
+revalidator_configuration:
+  revalidate_page: true
+  additional_paths: /

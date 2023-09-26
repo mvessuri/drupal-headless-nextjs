@@ -1,0 +1,11 @@
+uuid: 4d29d97f-3e91-4865-9180-230dfac0091b
+langcode: en
+status: true
+dependencies: {  }
+id: next_for_drupal_blog
+label: 'Next for Drupal Blog'
+base_url: 'http://localhost:3000'
+preview_url: 'http://localhost:3000/api/preview'
+preview_secret: nextfordrupal
+revalidate_url: 'http://localhost:3000/api/revalidate'
+revalidate_secret: secret
