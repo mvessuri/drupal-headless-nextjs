@@ -19,7 +19,7 @@ This will start the project and make it available at locally.
 
 You can import a sample database using the following command:
 
-`lando db-import dump.sql`
+`lando db-import dump.sql.gz`
 
 ## Connect to Next.js App
 
